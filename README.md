@@ -1,4 +1,4 @@
-<img width="1352" height="604" alt="image" src="https://github.com/user-attachments/assets/22a6c6d4-78dc-4bf9-8ed5-c533046e84c5" />🌐 DevLinks - Meu Primeiro Projeto Web
+🌐 DevLinks - Meu Primeiro Projeto Web
 
 Projeto desenvolvido durante os estudos da Rocketseat como primeiro contato com desenvolvimento Front-end.
 
